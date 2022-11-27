@@ -9,10 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@formspree/react": "^2.4.1",
+    "@material-tailwind/react": "^1.2.4",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
+    "framer-motion": "^7.6.12",
+    "graphql": "^16.6.0",
     "next": "13.0.5",
+    "next-seo": "^5.14.1",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.4.1",
+    "react-markdown": "^8.0.3",
+    "react-ripples": "^2.2.1",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "tailwindcss-textshadow": "^2.1.3"
   }
 }
